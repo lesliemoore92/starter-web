@@ -13,6 +13,7 @@ Some text
 #### Deployment
 
 Some text. Plus sth more 
+Please fork this repo and pull
 
 #### Copyright
 
