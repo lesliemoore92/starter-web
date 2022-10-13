@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kasia Tkacz leslieandmoore@gmail.com
 
 # THANKS
 
