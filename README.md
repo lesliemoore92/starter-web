@@ -14,3 +14,7 @@ Some text
 
 Some text. Plus sth more 
 
+#### Copyright
+
+Git Training. 2014 Kasia Tkacz
+
